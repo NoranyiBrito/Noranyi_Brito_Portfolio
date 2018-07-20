@@ -1,0 +1,153 @@
+
+.mainnav{
+  width: 90%;
+  background-color: black;
+  opacity: 0.7;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+
+.mainnav a{
+   float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+.mainnav-right{
+ float: right;
+}
+
+.nonsocial{
+  font-size: 17px;
+  font-family: fantasy;
+}
+
+.navar{
+  width: 90%;
+  height: 50%;
+  background: black;
+  opacity: 0.7;
+  margin: 0 auto;
+
+}
+
+.mainBackground{
+  width: 90%;
+  background: #e6f7ff;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  box-shadow: 5px 10px #888888;
+}
+
+.mainImage{
+  /* margin: 0 auto; */
+    display: block;
+    margin-left: 33%;
+    margin-right: 41%;
+    margin-top: 5%;
+    width: 25%;
+
+
+}
+
+.image{
+  width: 100%;
+  margin-left: : auto;
+  margin-right: auto;
+  padding: 10%;
+  border: 25px solid white;
+  border-radius: 50%;
+  background: white;
+  box-shadow: 5px 10px #888888;
+}
+
+.aboutMe{
+  width: 90%;
+  margin: 0 auto;
+  padding: 5%;
+}
+
+.aboutMeImage{
+  float: left;
+  margin-right: 5px;
+  width: 30%;
+}
+.aboutMeImage img{
+  border-radius: 25%;
+  border: 25px solid pink;
+  width: 50%;
+  height: auto;
+
+}
+
+.about{
+  width: 50%;
+  /* margin: 0 auto; */
+  float: left;
+  margin-left: 0px;
+
+}
+
+.projectsPreview{
+  display: block;
+  width: 95%;
+
+  padding: 4%;
+}
+
+
+.imageCards{
+  display: block;
+  float: left;
+  background-color: pink;
+  margin: 10px;
+  width: 25%;
+  border-radius: 25%;
+  text-align: center;
+  border: 25px solid pink;
+
+
+}
+
+.cardImages{
+ width: 100%;
+ border-radius: 25%;
+}
+
+.myInfo{
+  font-family: fantasy;
+}
+
+h1{
+   text-decoration: underline;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 15px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 100%;
+  border: solid #fff;
+  color: white;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: #000000;
+  color: white;
+}
+
+.fa-github {
+
+}
